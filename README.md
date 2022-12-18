@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjali020291
+- 👋 Hi, I’m Anjali
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on LinkedIn
